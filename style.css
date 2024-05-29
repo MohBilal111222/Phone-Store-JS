@@ -1,3 +1,16 @@
+h1{
+    color: rgb(67, 78, 230);
+}
+
+
+span{
+    color: rgb(223, 28, 28);
+}
+#news{
+    color: rgb(247, 238, 246);
+}
+
 body{
-    background: #000;
+    background-color: rgb(8, 59, 58);
+    
 }
